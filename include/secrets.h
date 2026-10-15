@@ -1,0 +1,9 @@
+#pragma once
+
+#define IO_USERNAME "Peroni6"
+
+#define IO_KEY "aio_gach031ARLN6URluJEuUbcSO08kD"
+
+#define WIFI_SSID "Peronismo"
+
+#define WIFI_PASS "12345678"
